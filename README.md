@@ -1,1 +1,3 @@
-## Marza Hanaya Melodya Goga C 24
+## Marza Hanaya Melodya Goga
+## 2409116103
+## Sistem Informasi C
